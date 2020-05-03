@@ -11,6 +11,14 @@
 
 ### --------------------------- Project Specific --------------------------- ###
 
+lib/
+local/
+cache/
+output/
+include/
+.ropeproject/
+pelican-themes/
+pelican-plugins/
 
 ### ------------------------------- General -------------------------------- ###
 
